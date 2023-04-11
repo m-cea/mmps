@@ -1,0 +1,1 @@
+Correr el codigo de web.py, tomar nota de la ip que la consola informará que sitúa al server y modificar la variable global URL del proyecto en el AppInventor para que tome las canciones de la IP correcta y pueda funcionar el servicio web.
